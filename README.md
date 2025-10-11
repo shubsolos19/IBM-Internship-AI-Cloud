@@ -56,4 +56,4 @@ The **Travel Agent Chatbot** is an AI-powered virtual assistant built on **IBM C
 ## 👨‍💻 Intern Details
 -   **Name:** SHUBHAM BAWARI
 -   **Institute:** MAHATMA GANDHI MISSION'S COLLEGE OF ENGINEERING AND TECHNOLOGY
--   **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
+-   **Duration:** 4 Weeks (15th July 2025 to 16th August 2025)
